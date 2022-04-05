@@ -1,0 +1,19 @@
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+
+.middle-container {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.bottom-container {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+

@@ -1,0 +1,19 @@
+.caja-1 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.caja-2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    top: 120px;
+}
+
+.caja-3 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}

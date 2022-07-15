@@ -4,33 +4,34 @@ hr {
 
 body {
     text-align: center;
-    background-color: aquamarine;
+    background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
 }
 
 .main-container {
-    width: 20rem;
+    width: 18rem;
     height: 35rem;
     margin: 5rem auto 0 auto;
-    border: solid;
     border-radius: 20px;
-    background-color: white;
+    background-color: hsl(0, 0%, 100%);
 }
 
 img {
     width: 15rem;
     border-radius: 20px;
-    margin: 2.5rem 1rem;
+    margin: 1rem;
 }
 
 .text-1 {
     margin: 1rem;
     font-weight: 700px;
+	color: hsl(218, 44%, 22%);
 }
 
 .text-2 {
     margin: 1rem;
     font-weight: 400px;
+	color: hsl(220, 15%, 55%);
 }
 

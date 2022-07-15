@@ -1,0 +1,36 @@
+hr {
+    margin: 5rem;
+}
+
+body {
+    text-align: center;
+    background-color: aquamarine;
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+}
+
+.main-container {
+    width: 20rem;
+    height: 35rem;
+    margin: 5rem auto 0 auto;
+    border: solid;
+    border-radius: 20px;
+    background-color: white;
+}
+
+img {
+    width: 15rem;
+    border-radius: 20px;
+    margin: 2.5rem 1rem;
+}
+
+.text-1 {
+    margin: 1rem;
+    font-weight: 700px;
+}
+
+.text-2 {
+    margin: 1rem;
+    font-weight: 400px;
+}
+

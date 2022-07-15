@@ -17,12 +17,13 @@ h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     color: #66BFBF;
-    font-weight: normal;
+    font-weight: bold;
 }
 
 h3 {
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
+    font-size: 1.5rem;
 }
 
 a {
@@ -32,10 +33,12 @@ a {
 .top-container {
     background-color: #E4F9F5;
     padding-top: 100px;
+    margin-bottom: 6.25rem;
 }
 
 .pro {
     font-weight: bolder;
+    text-decoration: underline;
 }
 
 .top-cloud {
@@ -50,4 +53,102 @@ a {
     bottom: 300px;
 }
 
+.skill-row {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 2;
+}
 
+.image-1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.image-2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+p {
+    color: #40514E;
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-family: 'Nunito', sans-serif;
+}
+
+hr {
+    border: 0.75rem;
+    width: 6rem;
+    border-top-style: dotted;
+    border-top-color: #adbdbd;
+    margin: 100px auto;
+}
+
+.skills {
+    margin-top: 6.25rem;
+}
+
+.get-in-touch {
+    margin-top: 6.25rem;
+    font-size: 3.5rem;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    height: 10rem;
+    padding-top: 3rem;
+    margin-top: 2rem;
+}
+
+.btn {
+    border: 0.1rem;
+    border-style: solid;
+    background-color: #11999E;
+    color: white;
+    padding: 0.7rem;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    display: block;
+    width: fit-content;
+    margin: 2.5rem auto 2.5rem auto;
+}
+
+.btn:hover {
+    border: 0.1rem;
+    border-style: solid;
+    background-color: white;
+    color: #11999E;
+    padding: 0.7rem;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+}
+
+.footer-link {
+    margin: 1.5rem;
+    font-size: 24px;
+    font-family: 'Nunito', sans-serif;
+    text-decoration: none;
+    font-weight: bolder;
+    color: #11999E;
+}
+
+.footer-link:hover {
+    margin: 1.5rem;
+    font-size: 24px;
+    font-family: 'Nunito', sans-serif;
+    text-decoration: none;
+    font-weight: bolder;
+    color: white;
+}
+
+.copyright {
+    margin-top: 3rem;
+    color: white;
+}
